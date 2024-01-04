@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_main_012_8py" xml:lang="en-US">
+<title>main 2.py File Reference</title>
+<indexterm><primary>main 2.py</primary></indexterm>
+<simplesect>
+    <title>Namespaces    </title>
+        <itemizedlist>
+            <listitem><para>namespace <link linkend="_namespacemain_012">main 2</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_namespacemain_012_1aa4f5d4703756766b15506ba32856766a">main 2.userInput</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_namespacemain_012_1a6807dbeef8a221f6b1680cc715cf2e8b">main 2.calculatePay</link> (rate, overtimeHours, regularHours)</para>
+</listitem>
+            <listitem><para><link linkend="_namespacemain_012_1ad6a773d7890071d6b746bf82bbb6ca73">main 2.main</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>
