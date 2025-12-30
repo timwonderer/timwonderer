@@ -6,7 +6,7 @@ I design storytelling-style assessments where students **interact** with the mat
 
 ##  Project in Production
 
-###  Classroom Token Hub (v1.2.0) *formerly known as Classroom Economy*
+###  Classroom Token Hub (v1.4.0) *formerly known as Classroom Economy*
 
 A Progressive Web App (Flask + PostgreSQL) that models a student-driven economy:
 -  Clock in/out logic to reward classroom currency based on attendance with automated payroll
