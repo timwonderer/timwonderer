@@ -1,6 +1,6 @@
 # Hi, I’m Tim
 
-I design narrative-driven learning systems where students interact with constraints, incentives, and consequences—rather than just answering questions.
+I design narrative-driven learning systems where students interact with constraints, incentives, and consequences.
 
 My work sits at the intersection of:
 - computer science education
