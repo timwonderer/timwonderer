@@ -16,9 +16,9 @@ My work sits at the intersection of:
 ### Classroom Token Hub (v1.7.1)  
 formerly Classroom Economy
 
-A production-grade Progressive Web App (Flask + PostgreSQL) that simulates a real classroom economy—designed to make economic systems visible, debuggable, and fair for students.
+A production-grade Progressive Web App (Flask + PostgreSQL) that simulates a real classroom economy to support classroom management, reward system, and routines. Thoughtfully designed to make economic systems visible, debuggable, and fair for students.
 
-This is my first fully functional app as a teacher developer and a step towards the dream of "If I need a tool, I can just build it"
+This is my first fully functional app as a teacher developer and a step towards the dream of *"If I need a tool, I can just build it"*
 
 ---
 
@@ -149,4 +149,4 @@ You may not:
 
 ---
 
-I build slowly, deliberately, and in public—because classrooms are high-stakes systems, and students notice when you cut corners.
+I run on ADHD, Insanity, and the love for learning and building.
