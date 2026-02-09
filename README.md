@@ -13,7 +13,7 @@ My work sits at the intersection of:
 
 ## Project in Production
 
-### Classroom Token Hub (v1.7.1)  
+### Classroom Token Hub (v1.8.0)  
 formerly Classroom Economy
 
 A production-grade Progressive Web App (Flask + PostgreSQL) that simulates a real classroom economy to support classroom management, reward system, and routines. Thoughtfully designed to make economic systems visible, debuggable, and fair for students.
@@ -54,42 +54,7 @@ This is my first fully functional app as a teacher developer and a step towards 
 - Continuous hardening against edge cases, corrupted data, and misuse
 - Security issues tracked, documented, and patched with audit trails
 
----
-
-## Recent Releases
-
-### v1.7.1 – January 2026  
-Stability and Data Integrity Release
-- Fixed multiple critical Decimal and NULL transaction crashes
-- Hardened earnings, spending, savings, and interest calculations
-- Graceful handling of corrupted or partial transaction data
-- Improved duplicate student-claim handling (IntegrityError-safe)
-- Payroll import and admin route fixes
-
-Security work (ongoing):
-- Hardened Grafana proxy against XSS
-- Removed unsafe function redefinitions in student routes
-- Improved internal safety helpers and URL validation
-
 See `CHANGELOG.md` for full technical detail.
-
----
-
-## Active Development
-
-### Classroom Token Hub – Current Focus
-
-In progress:
-- Multi-teacher workflows with shared-student constraints
-- CSV exports for rosters, transactions, payroll, and attendance
-- Expanded test coverage for cross-class and corruption scenarios
-- Mobile UX refinements for high-friction workflows
-- Operational documentation: migration runbooks and recovery checklists
-
-Planned:
-- Jobs marketplace (student applications, contracts, pay cycles)
-- CWI auto-balancer for system-level economic tuning
-- Advanced economy diagnostics and health alerts
 
 ---
 
@@ -108,17 +73,6 @@ I build story-first assessments where computation matters because the world reac
 
 Each project blends Python, narrative worldbuilding, learning science, and deliberate cognitive friction.
 
----
-
-## Project Snapshot
-
-Classroom Token Hub:
-- 35+ database models
-- 100+ tests and growing
-- Full join-code multi-tenancy isolation
-- Decimal-safe financial engine
-- Progressive Web App with offline support
-- Production-hardened since 2024
 
 ---
 
