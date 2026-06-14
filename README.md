@@ -1,26 +1,24 @@
-Hi, I’m Tim.
+# Hi, I’m Tim.
 
-I’m a high school chemistry and computer science teacher who builds software for real classrooms.
+I’m a current full-time high school chemistry and computer science teacher. I enjoy solving classroom and school-based problems by designing apps that are practical and reliable.
 
-I believe teachers shouldn’t have to adapt to software that wasn’t designed for them. If the tool doesn’t exist, I’ll build it.
-
-My work combines:
-
+Because I am a classroom teacher who just happens to write apps for fun, my work mostly revolves around:
 * Education
 * Software engineering
 * Learning science
 * Systems thinking
 * Human-centered design
+* Ethical AI Interactions
 
-⸻
 
-Current Project
 
-Classroom Token Hub
+## Current Project
 
-A production web application that helps teachers run classroom economies while making economic systems visible, fair, and understandable for students.
+### Classroom Token Hub
+> [!NOTE]
+> As of June 14, 2026, Classroom Token Hub Version 1 has entered retirement with the release of v1.10.0. Version 1 will no longer be actively maintained but remain stable and production-ready. See project repository for more information.
 
-Originally built for my own classroom, it has grown into a complete platform featuring:
+A production web application that helps teachers run classroom economies while making economic systems visible, fair, and understandable for students. It was originally built out of spite and annoyance because exisiting platforms are pretty terrible (in my opinion anyway). It was never my intention to build a full-featured platform that has:
 
 * multi-tenant architecture
 * financial ledger
@@ -32,35 +30,27 @@ Originally built for my own classroom, it has grown into a complete platform fea
 * accessibility
 * security-first identity design
 
-Version 1 has officially concluded after a complete architectural rewrite. Development is now focused on Version 2.
+After 18 months of development and learned lessons, Classroom Token Hub is ready to evolve into Version 2.
 
-⸻
+## Engineering Philosophy
 
-Engineering Philosophy
+Working in the classroom has some unintended consequences. These has led to me writing apps that are:
+* deterministic, because inconsistent consequences is recipe for disaster in the classroom.
+* observable, because if something goes wrong in the classroom, I want to know why.
+* privacy-first, because my classroom is my business.
+* easy to audit, because human memory is unreliable.
+* difficult to misuse, because students are chaos generators.
+* pleasant for real people, because teaching is already hard enough.
+* principles-first, because just because we can doesn't mean we should.
 
-I enjoy designing systems that are:
-
-* deterministic
-* observable
-* privacy-first
-* easy to audit
-* difficult to misuse
-* pleasant for real people
-
-I care as much about architecture, documentation, and long-term maintainability as I do about writing code.
-
-⸻
-
-Beyond Software
+## Beyond Software
 
 I also design narrative-driven computer science curriculum where students learn through systems instead of memorization.
 
 My assessments combine programming, storytelling, and deliberate cognitive friction to reward reasoning over pattern matching.
 
-⸻
 
-Current Interests
-
+## Current Interests
 * Flask
 * PostgreSQL
 * Software architecture
