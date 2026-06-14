@@ -1,106 +1,70 @@
-# Hi, I’m Tim
+Hi, I’m Tim.
 
-I design narrative-driven learning systems where students interact with constraints, incentives, and consequences.
+I’m a high school chemistry and computer science teacher who builds software for real classrooms.
 
-My work sits at the intersection of:
-- computer science education
-- financial literacy
-- learning science
-- systems thinking
-- and a skepticism of shallow gamification
+I believe teachers shouldn’t have to adapt to software that wasn’t designed for them. If the tool doesn’t exist, I’ll build it.
 
----
+My work combines:
 
-## Project in Production
+* Education
+* Software engineering
+* Learning science
+* Systems thinking
+* Human-centered design
 
-### Classroom Token Hub (v1.8.0)  
-formerly Classroom Economy
+⸻
 
-A production-grade Progressive Web App (Flask + PostgreSQL) that simulates a real classroom economy to support classroom management, reward system, and routines. Thoughtfully designed to make economic systems visible, debuggable, and fair for students.
+Current Project
 
-This is my first fully functional app as a teacher developer and a step towards the dream of *"If I need a tool, I can just build it"*
+Classroom Token Hub
 
----
+A production web application that helps teachers run classroom economies while making economic systems visible, fair, and understandable for students.
 
-### Core Systems
-- Attendance-aware clock in/out with automated payroll
-- Banking simulation (checking, savings, interest, NSF fees)
-- Rent and insurance billing engines
-- Storefront with approval workflows and bulk pricing
-- Student analytics with weekly, monthly, and long-term projections
-- Economy health monitoring via the Classroom Wage Index (CWI)
-- In-app messaging and teacher announcements
-- Full Progressive Web App support (installable, offline-capable)
-- WCAG 2.1 AA accessibility throughout
-- Security hardened: TOTP 2FA, encrypted PII, salted and peppered passwords
+Originally built for my own classroom, it has grown into a complete platform featuring:
 
----
+* multi-tenant architecture
+* financial ledger
+* banking and payroll
+* rent and insurance systems
+* classroom store
+* hall pass management
+* analytics
+* accessibility
+* security-first identity design
 
-### Architecture and Engineering Highlights
-- True multi-tenant isolation via join-code scoping
-- 35+ SQLAlchemy models with Alembic migrations
-- RESTful API with defensive authorization and null-safe logic
-- Corruption-tolerant financial calculations (Decimal-safe, NULL-safe)
-- Service worker caching (static: cache-first, dynamic: network-first)
-- Mobile-first UI with bottom navigation
-- Designed for real students touching real data
+Version 1 has officially concluded after a complete architectural rewrite. Development is now focused on Version 2.
 
----
+⸻
 
-## Production Status
-- Live since November 2024
-- PWA-enabled since December 2025
-- Actively used by multiple teachers and hundreds of students
-- Continuous hardening against edge cases, corrupted data, and misuse
-- Security issues tracked, documented, and patched with audit trails
+Engineering Philosophy
 
-See `CHANGELOG.md` for full technical detail.
+I enjoy designing systems that are:
 
----
+* deterministic
+* observable
+* privacy-first
+* easy to audit
+* difficult to misuse
+* pleasant for real people
 
-## Narrative Assessments (AP Computer Science Principles)
+I care as much about architecture, documentation, and long-term maintainability as I do about writing code.
 
-I build story-first assessments where computation matters because the world reacts.
+⸻
 
-- Is Leave Possible?  
-  Data storytelling with Python under real constraints
+Beyond Software
 
-- Fragments of Truth  
-  Data systems, time loops, and student-induced anomalies
+I also design narrative-driven computer science curriculum where students learn through systems instead of memorization.
 
-- The Halting Protocol (in development)  
-  Algorithms unit centered on an Archivist AI and the halting problem
+My assessments combine programming, storytelling, and deliberate cognitive friction to reward reasoning over pattern matching.
 
-Each project blends Python, narrative worldbuilding, learning science, and deliberate cognitive friction.
+⸻
 
+Current Interests
 
----
-
-## What I Care About
-- Making financial systems legible to students
-- Designing assessments that reward thinking, not compliance
-- Treating AI as a thinking partner, not a shortcut
-- Accessibility as a design constraint, not a checklist
-- Building systems that fail visibly and recover gracefully
-
----
-
-## License
-
-All public projects here are licensed under the PolyForm Noncommercial License 1.0.0.
-
-You may:
-- Use these projects in classrooms, clubs, and nonprofit educational settings
-- Modify them for school use or personal learning
-- Share them with students and other educators
-- Use them in research or academic presentations (non-commercial)
-
-You may not:
-- Use them as part of a commercial product or SaaS platform
-- Host paid services that include this code
-- Bundle them into revenue-generating offerings
-- Use them internally within for-profit organizations
-
----
-
-I run on ADHD, Insanity, and the love for learning and building.
+* Flask
+* PostgreSQL
+* Software architecture
+* Security
+* Accessibility
+* AI-assisted software development
+* Computer science education
