@@ -16,7 +16,7 @@ Because I am a classroom teacher who just happens to write apps for fun, my work
 
 ### Classroom Token Hub
 > [!NOTE]
-> As of June 14, 2026, Classroom Token Hub Version 1 has entered retirement with the release of v1.10.0. Version 1 will no longer be actively maintained but remain stable and production-ready. See project repository for more information.
+> As of July 1, 2026, Classroom Token Hub Version 1 has reached end-of-service. Version 1 will no longer be actively maintained but remain stable and production-ready. Web app is currently inaccessible as we transition to Version 2. See project repository for more information.
 
 A production web application that helps teachers run classroom economies while making economic systems visible, fair, and understandable for students. It was originally built out of spite and annoyance because exisiting platforms are pretty terrible (in my opinion anyway). It was never my intention to build a full-featured platform that has:
 
